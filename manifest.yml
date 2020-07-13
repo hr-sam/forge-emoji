@@ -1,0 +1,12 @@
+modules:
+  macro:
+    - key: sms-app-34-qr-code
+      function: main
+      title: sms-app-34
+      description: Your power emojis
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: 'ari:cloud:ecosystem::app/f7c87c57-1238-4145-9fdf-0e081d142c3a'
+  name: sms-app-34
